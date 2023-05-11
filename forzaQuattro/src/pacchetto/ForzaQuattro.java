@@ -12,9 +12,14 @@ public class ForzaQuattro extends JFrame {
     private boolean turnogiocatore1;
     private JLabel turnLabel;
     private JPanel boardPanel;
+    private JLabel titolo;
 
     public ForzaQuattro(String nomeGiocatore1, String nomeGiocatore2) {
         super("Forza Quattro");
+        JLabel titleLabel = new JLabel("Forza Quattro");
+        titleLabel.setFont(new Font("Arial", Font.BOLD, 40));
+        titleLabel.setHorizontalAlignment(JLabel.CENTER);
+        titleLabel.setForeground(Color.WHITE);
         tabella = new int[righe][colonne];
         boardPanel = new JPanel() {
             @Override
@@ -35,7 +40,9 @@ public class ForzaQuattro extends JFrame {
                     }
                 }
             }
+
         };
+        boardPanel.add(titleLabel, BorderLayout.NORTH);
         boardPanel.setPreferredSize(new Dimension(colonne * TILE_SIZE, (righe + 1) * TILE_SIZE));
         boardPanel.setBackground(Color.BLUE);
         boardPanel.addMouseListener(new MouseAdapter() {
