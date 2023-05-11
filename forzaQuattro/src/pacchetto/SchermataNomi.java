@@ -20,16 +20,22 @@ public class SchermataNomi extends JFrame {
         nomeGiocatore2Field = new JTextField(20);
 
         confermaButton = new JButton("Conferma");
+        confermaButton.setMnemonic(KeyEvent.VK_ENTER);
         confermaButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                String nomeGiocatore1 = nomeGiocatore1Field.getText();
-                String nomeGiocatore2 = nomeGiocatore2Field.getText();
+                if(nomeGiocatore1Field.getText().equalsIgnoreCase("")||nomeGiocatore2Field.getText().equalsIgnoreCase("")){
+                    JOptionPane.showMessageDialog(null,"Inserisci un nome ad'entrambi i giocatori: ","ATTENZIONE!",JOptionPane.ERROR_MESSAGE);
 
-                ForzaQuattro gioco = new ForzaQuattro(nomeGiocatore1, nomeGiocatore2);
-                gioco.setVisible(true);
+                }else {
+                    String nomeGiocatore1 = nomeGiocatore1Field.getText();
+                    String nomeGiocatore2 = nomeGiocatore2Field.getText();
 
-                dispose();
+                    ForzaQuattro gioco = new ForzaQuattro(nomeGiocatore1, nomeGiocatore2);
+                    gioco.setVisible(true);
+
+                    dispose();
+                }
             }
         });
 
