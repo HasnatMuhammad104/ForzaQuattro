@@ -7,17 +7,19 @@ Lo scopo del gioco è riuscire ad allineare quattro pedine dello stesso colore n
 # Regole
 I giocatori decidono chi dei due inizierà il gioco. A turno faranno quindi scivolare la propria pedina nei binari prestabiliti dalla scacchiera cercando di allineare quattro pedine in fila orizzontale, verticale o obliqua. Nel frattempo devono stare attenti alle mosse dell'avversario per evitare che anch'esso riesca a fare quattro impilando le proprie. Molto importante è restare sempre concentrati e studiare bene le mosse del proprio avversario. Nel caso nessuno dei due partecipanti al gioco riuscisse a fare "quattro" la partita finisce in parità e se ne comincia un'altra.
 
-# Vittoria in obliquo
+# Screenshot
+
+### Vittoria in obliquo
 <p align="center">
 <img width="350" src="https://github.com/HasnatMuhammad104/ForzaQuattro/assets/124881407/a6a0d24f-aeb7-4136-936e-e8da13e2048e">
 </p>
 
-# Vittoria in orizzontale
+### Vittoria in orizzontale
 <p align="center">
 <img width="350" src="https://github.com/HasnatMuhammad104/ForzaQuattro/assets/124881407/045c28ef-42be-4409-af04-ac19d3e0bea5">
 </p>
 
-# Vittoria in verticale
+### Vittoria in verticale
 <p align="center">
 <img width="350" src="https://github.com/HasnatMuhammad104/ForzaQuattro/assets/124881407/14cec168-c406-449f-bfb4-591f6a6d5c40">
 </p>
