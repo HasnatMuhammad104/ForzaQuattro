@@ -9,7 +9,8 @@ I giocatori decidono tramite conta chi dei due inizierà il gioco. A turno faran
 
 # Screenshot
 <p align="center">
-<img width="350" src="https://github.com/HasnatMuhammad104/ForzaQuattro/assets/124880149/729309cd-ef11-4564-a797-f16f5b102cca">
+<img width="350" src="https://github.com/HasnatMuhammad104/ForzaQuattro/assets/124881407/a6a0d24f-aeb7-4136-936e-e8da13e2048e
+">
 </p>
 
 
