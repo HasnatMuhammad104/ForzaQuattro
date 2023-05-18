@@ -170,7 +170,5 @@ public class ForzaQuattro extends JFrame {
         return -1;
     }
 
-    public static void main(String[] args) {
-        new SchermataNomi();
-    }
+
 }
