@@ -7,4 +7,8 @@ I giocatori decidono tramite conta chi dei due inizierà il gioco. A turno faran
 # Scopo
 Lo scopo del gioco è riuscire ad allineare quattro pedine dello stesso colore nella scacchiera di gioco sia in verticale, orizzontale o obliquo.
 
+<p align="center">
+<img width="350" src="https://github.com/HasnatMuhammad104/ForzaQuattro/assets/124880149/729309cd-ef11-4564-a797-f16f5b102cca">
+</p>
+
 
