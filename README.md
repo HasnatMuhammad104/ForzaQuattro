@@ -12,4 +12,14 @@ I giocatori decidono tramite conta chi dei due inizierà il gioco. A turno faran
 <img width="350" src="https://github.com/HasnatMuhammad104/ForzaQuattro/assets/124881407/a6a0d24f-aeb7-4136-936e-e8da13e2048e">
 </p>
 
+# Vittoria in orizzontale
+<p align="center">
+<img width="350" src="https://github.com/HasnatMuhammad104/ForzaQuattro/assets/124881407/045c28ef-42be-4409-af04-ac19d3e0bea5">
+</p>
+
+# Vittoria in verticale
+<p align="center">
+<img width="350" src="https://github.com/HasnatMuhammad104/ForzaQuattro/assets/124881407/14cec168-c406-449f-bfb4-591f6a6d5c40">
+</p>
+
 
