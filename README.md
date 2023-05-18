@@ -1,2 +1,2 @@
 # ForzaQuattro
-Lavoro Info
+Forza 4 è un classico per tutti gli amanti di giochi di strategia. Per battere il tuo avversario, devi creare per primo una serie di quattro gettoni sulla scacchiera. Individuare la strategia vincente non è sempre facile, ma il gioco è abbastanza semplice per tutta la famiglia. Se ti stai preparando alla tua prima partita, capirai come giocare in pochissimo tempo, specie se conosci già Tris.
